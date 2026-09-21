@@ -1,0 +1,7 @@
+torch
+lightning
+numpy
+pandas
+matplotlib
+scipy
+gdown
